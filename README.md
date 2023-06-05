@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis Mogaka
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python django framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email dennomasore@gmail.com
 
